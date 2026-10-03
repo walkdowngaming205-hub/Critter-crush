@@ -69,9 +69,7 @@ critter_crush/
 
 
 
-Try:
-|
-🚀 Getting Started
+## 🚀 Getting Started
 Prerequisites
 
 Ensure you have the following installed on your machine:
