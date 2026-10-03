@@ -1,0 +1,6 @@
+.abacus.donotdelete
+node_modules/
+.expo/
+**/.expo/
+.env
+*.log
